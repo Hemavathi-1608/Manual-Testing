@@ -1,0 +1,28 @@
+1. Explain about Tester’s Responsibility
+A tester is responsible for performing Quality Control (QC) activities, mainly by executing test cases to find bugs and issues in a software product. Testers are part of the QC process, which comes under the broader QA process. 
+
+The main responsibilities of a tester are:
+(i)Understand and analyze the requirements.
+(ii)Identify unclear requirements and clarify them with the concerned team.
+(iii)Identify the types of testing required, such as functional, security, and performance testing.
+(iv)Prepare test cases and test data.
+(v)Set up and verify the test environment using smoke testing.
+(vi)Execute test cases and mark them as Passed, Failed, Blocked, or Not Run.
+(vii)Report defects and assign bug IDs.
+(viii)Perform retesting after defects are fixed.
+(ix)Track defects until they are closed.
+(x)Prepare test execution reports, test metrics, and the test closure report.  
+
+2. Explain about STLC Process
+STLC - Software Testing Life Cycle. It is a systematic process followed by testers to perform testing activities throughout the testing life cycle.
+
+The main phases of STLC are:
+1.Requirement Analysis – The tester studies the requirements, identifies unclear points, asks questions, and determines the types of testing required. 
+2.Test Planning – The testing scope, objectives, testing types, resources, tools, schedule, roles, responsibilities, risks, and testing criteria are defined. 
+3.Test Case Development – Test cases, test data, and automation scripts, if required, are prepared based on the requirements. 
+4.Test Environment Setup – The required hardware and software are identified, the test environment is set up, and smoke testing is performed to check its readiness. 
+5.Test Execution – Test cases are executed and marked as Passed, Failed, Blocked, or Not Run. Defects are reported, retesting is performed after fixing, and defects are tracked until closure. 
+6.Test Cycle Closure – The testing results are evaluated based on coverage, quality, cost, time, and business objectives. Test metrics and the Test Closure Report are prepared. 
+
+STLC Flow:
+Requirement Analysis -> Test Planning -> Test Case Development -> Test Environment Setup -> Test Execution -> Test Cycle Closure.
