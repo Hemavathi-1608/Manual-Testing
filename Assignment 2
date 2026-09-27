@@ -1,0 +1,15 @@
+1. Test Levels
+
+There are four main test levels:
+1.Unit Testing – Testing individual components of the software. It is usually done by developers.
+2.Integration Testing – Testing whether different modules work together correctly.
+3.System Testing – Testing the complete integrated software.
+4.Acceptance Testing – Testing whether the software meets user and business requirements. It is usually done by end-users or clients. 
+
+2. Test Process
+
+The test process mainly consists of:
+1.Planning – Decide the testing objectives, scope, resources, schedule, risks, and testing strategy.
+2.Monitoring – Track testing progress, test metrics, defects, and risks.
+3.Control – Take corrective actions, manage changes, track defects, and adjust resources when needed.  
+
