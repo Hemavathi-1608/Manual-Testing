@@ -1,0 +1,36 @@
+Req Assignment
+Design 2 test case and prepare RTM for the requirement
+Req id: Req_payment_001
+Requirement: User should pay thro CC / UPI / COD for a product purchase
+Site: www.flipkart.com
+----------------------------------------------------
+Testcase id: TC_modulename_001
+Test Desc: What u r gng to verify
+Test Steps: 
+Test data: 
+Expected Result:
+-------------------------------------------------------------------------------------------------------------------------------------------
+Req ID: Req_payment_001
+Requirement: User should pay through CC / UPI / COD for a product purchase.
+Site: Flipkart
+
+Test Case
+Test Case ID: TC_payment_001
+Test Description:Verify that the user can purchase a product using available payment methods like Credit Card, UPI, and COD.
+Test Steps: 1. Open Flipkart website.
+            2. Select a product.
+            3. Add the product to the cart.
+            4. Proceed to checkout.
+            5. Select Credit Card / UPI / COD as the payment method.
+            6. Enter the required details.
+            7. Complete the payment or place the COD order.
+Test Data:Valid Credit Card details / Valid UPI ID / Valid delivery details for COD.
+Expected Result:The selected payment method should work successfully and the order should be placed successfully.
+
+RTM
+Requirement ID: Req_payment_001
+Requirement: User should pay through CC / UPI / COD for a product purchase.
+Test Case ID: TC_payment_001
+Test Result: Not Executed
+Defect ID: -
+Status: In Progress
