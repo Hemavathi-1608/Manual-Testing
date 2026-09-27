@@ -1,0 +1,35 @@
+Write Possible Test Scenarios (Positive and Negative) for website https://petstore.octoperf.com/actions/Catalog.action
+
+Positive Test Scenarios
+
+|  No | Test Scenario                       | Expected Result                                 |
+|   1 | Open the Petstore website           | Website should open successfully                |
+|   2 | Click on Fish category              | Fish products should be displayed               |
+|   3 | Click on Dogs category              | Dog products should be displayed                |
+|   4 | Click on Cats category              | Cat products should be displayed                |
+|   5 | Click on Reptiles category          | Reptile products should be displayed            |
+|   6 | Click on Birds category             | Bird products should be displayed               |
+|   7 | Select a product                    | Product details should be displayed             |
+|   8 | Add a product to cart               | Product should be added to the cart             |
+|   9 | Add multiple products to cart       | All selected products should appear in the cart |
+|  10 | Enter valid login details           | User should be logged in successfully           |
+|  11 | Update product quantity in cart     | Cart should show the updated quantity           |
+|  12 | Proceed with valid checkout details | Order should be placed successfully             |
+
+Negative Test Scenarios
+
+|  No | Test Scenario                                | Expected Result                                     |
+|   1 | Login with wrong username                    | Error message should be displayed                   |
+|   2 | Login with wrong password                    | Login should not be successful                      |
+|   3 | Login without entering username              | Proper validation message should be displayed       |
+|   4 | Login without entering password              | Proper validation message should be displayed       |
+|   5 | Enter invalid quantity                       | System should not accept the invalid quantity       |
+|   6 | Enter zero quantity                          | System should show proper validation                |
+|   7 | Enter negative quantity                      | System should reject the quantity                   |
+|   8 | Checkout without required details            | Validation message should be displayed              |
+|   9 | Enter invalid email                          | Error message should be displayed                   |
+|  10 | Enter invalid account details                | System should reject the details                    |
+|  11 | Try to checkout without required information | Order should not be completed                       |
+|  12 | Open an invalid/wrong page URL               | Error or page-not-found message should be displayed |
+
+
